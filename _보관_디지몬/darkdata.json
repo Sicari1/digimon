@@ -1,0 +1,26 @@
+{
+ "agumon": {
+  "id": 32,
+  "name": "Skull Greymon",
+  "stage": "Ultimate",
+  "image": "https://digi-api.com/images/digimon/w/Skull_Greymon.png"
+ },
+ "guilmon": {
+  "id": 441,
+  "name": "Megidramon",
+  "stage": "Mega",
+  "image": "https://digi-api.com/images/digimon/w/Megidramon.png"
+ },
+ "dorumon": {
+  "id": 647,
+  "name": "Death-X-mon",
+  "stage": "Mega",
+  "image": "https://digi-api.com/images/digimon/w/Death-X-mon.png"
+ },
+ "gabumon": {
+  "id": 321,
+  "name": "Metal Garurumon (Black)",
+  "stage": "Mega",
+  "image": "https://digi-api.com/images/digimon/w/Metal_Garurumon_(Black).png"
+ }
+}

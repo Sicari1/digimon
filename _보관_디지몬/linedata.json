@@ -1,0 +1,1214 @@
+[
+ {
+  "key": "agumon",
+  "rarity": "common",
+  "tree": {
+   "id": 36,
+   "name": "Koromon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Koromon.png",
+   "c": [
+    {
+     "id": 1,
+     "name": "Agumon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Agumon.png",
+     "c": [
+      {
+       "id": 34,
+       "name": "Greymon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Greymon.png",
+       "c": [
+        {
+         "id": 169,
+         "name": "Metal Greymon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Metal_Greymon.png",
+         "c": [
+          {
+           "id": 202,
+           "name": "War Greymon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/War_Greymon.png",
+           "c": []
+          }
+         ]
+        },
+        {
+         "id": 32,
+         "name": "Skull Greymon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Skull_Greymon.png",
+         "c": []
+        }
+       ]
+      },
+      {
+       "id": 25,
+       "name": "Tyranomon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Tyranomon.png",
+       "c": [
+        {
+         "id": 69,
+         "name": "Metal Tyranomon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Metal_Tyranomon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "gabumon",
+  "rarity": "common",
+  "tree": {
+   "id": 24,
+   "name": "Tunomon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Tunomon.png",
+   "c": [
+    {
+     "id": 16,
+     "name": "Gabumon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Gabumon.png",
+     "c": [
+      {
+       "id": 33,
+       "name": "Garurumon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Garurumon.png",
+       "c": [
+        {
+         "id": 205,
+         "name": "Were Garurumon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Were_Garurumon.png",
+         "c": [
+          {
+           "id": 168,
+           "name": "Metal Garurumon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Metal_Garurumon.png",
+           "c": []
+          }
+         ]
+        },
+        {
+         "id": 720,
+         "name": "Garurumon (X-Antibody)",
+         "stage": "Champion",
+         "image": "https://digi-api.com/images/digimon/w/Garurumon_(X-Antibody).png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "biyomon",
+  "rarity": "common",
+  "tree": {
+   "id": 225,
+   "name": "Pyocomon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Pyocomon.png",
+   "c": [
+    {
+     "id": 101,
+     "name": "Piyomon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Piyomon.png",
+     "c": [
+      {
+       "id": 5,
+       "name": "Birdramon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Birdramon.png",
+       "c": [
+        {
+         "id": 165,
+         "name": "Garudamon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Garudamon.png",
+         "c": [
+          {
+           "id": 248,
+           "name": "Hououmon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Hououmon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "tentomon",
+  "rarity": "common",
+  "tree": {
+   "id": 71,
+   "name": "Mochimon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Mochimon.png",
+   "c": [
+    {
+     "id": 85,
+     "name": "Tentomon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Tentomon.png",
+     "c": [
+      {
+       "id": 35,
+       "name": "Kabuterimon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Kabuterimon.png",
+       "c": [
+        {
+         "id": 40,
+         "name": "Atlur Kabuterimon (Blue)",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Atlur_Kabuterimon_(Blue).png",
+         "c": [
+          {
+           "id": 120,
+           "name": "Herakle Kabuterimon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Herakle_Kabuterimon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "palmon",
+  "rarity": "common",
+  "tree": {
+   "id": 84,
+   "name": "Tanemon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Tanemon.png",
+   "c": [
+    {
+     "id": 81,
+     "name": "Palmon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Palmon.png",
+     "c": [
+      {
+       "id": 195,
+       "name": "Togemon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Togemon.png",
+       "c": [
+        {
+         "id": 166,
+         "name": "Lilimon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Lilimon.png",
+         "c": [
+          {
+           "id": 228,
+           "name": "Rosemon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Rosemon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "gomamon",
+  "rarity": "common",
+  "tree": {
+   "id": 103,
+   "name": "Pukamon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Pukamon.png",
+   "c": [
+    {
+     "id": 117,
+     "name": "Gomamon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Gomamon.png",
+     "c": [
+      {
+       "id": 124,
+       "name": "Ikkakumon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Ikkakumon.png",
+       "c": [
+        {
+         "id": 96,
+         "name": "Zudomon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Zudomon.png",
+         "c": [
+          {
+           "id": 351,
+           "name": "Vikemon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Vikemon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "patamon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 86,
+   "name": "Tokomon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Tokomon.png",
+   "c": [
+    {
+     "id": 98,
+     "name": "Patamon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Patamon.png",
+     "c": [
+      {
+       "id": 3,
+       "name": "Angemon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Angemon.png",
+       "c": [
+        {
+         "id": 121,
+         "name": "Holy Angemon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Holy_Angemon.png",
+         "c": [
+          {
+           "id": 384,
+           "name": "Seraphimon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Seraphimon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "veemon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 289,
+   "name": "Chibimon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Chibimon.png",
+   "c": [
+    {
+     "id": 349,
+     "name": "V-mon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/V-mon.png",
+     "c": [
+      {
+       "id": 358,
+       "name": "XV-mon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/XV-mon.png",
+       "c": [
+        {
+         "id": 331,
+         "name": "Paildramon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Paildramon.png",
+         "c": [
+          {
+           "id": 405,
+           "name": "Imperialdramon(Fighter Mode)",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Imperialdramon(Fighter_Mode).png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": 305,
+       "name": "Fladramon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Fladramon.png",
+       "c": [
+        {
+         "id": 315,
+         "name": "Magnamon",
+         "stage": "Champion",
+         "image": "https://digi-api.com/images/digimon/w/Magnamon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "guilmon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 472,
+   "name": "Gigimon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Gigimon.png",
+   "c": [
+    {
+     "id": 477,
+     "name": "Guilmon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Guilmon.png",
+     "c": [
+      {
+       "id": 475,
+       "name": "Growmon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Growmon.png",
+       "c": [
+        {
+         "id": 439,
+         "name": "Megalo Growmon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Megalo_Growmon.png",
+         "c": [
+          {
+           "id": 434,
+           "name": "Dukemon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Dukemon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "renamon",
+  "rarity": "rare",
+  "tree": {
+   "id": 462,
+   "name": "Pokomon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Pokomon.png",
+   "c": [
+    {
+     "id": 465,
+     "name": "Renamon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Renamon.png",
+     "c": [
+      {
+       "id": 490,
+       "name": "Kyubimon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Kyubimon.png",
+       "c": [
+        {
+         "id": 448,
+         "name": "Taomon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Taomon.png",
+         "c": [
+          {
+           "id": 467,
+           "name": "Sakuyamon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Sakuyamon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "dorumon",
+  "rarity": "rare",
+  "tree": {
+   "id": 653,
+   "name": "Dorimon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Dorimon.png",
+   "c": [
+    {
+     "id": 657,
+     "name": "DORUmon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/DORUmon.png",
+     "c": [
+      {
+       "id": 654,
+       "name": "DORUgamon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/DORUgamon.png",
+       "c": [
+        {
+         "id": 656,
+         "name": "DORUguremon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/DORUguremon.png",
+         "c": [
+          {
+           "id": 636,
+           "name": "Alphamon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Alphamon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "hawkmon",
+  "rarity": "common",
+  "tree": {
+   "id": 367,
+   "name": "Poromon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Poromon.png",
+   "c": [
+    {
+     "id": 399,
+     "name": "Hawkmon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Hawkmon.png",
+     "c": [
+      {
+       "id": 267,
+       "name": "Aquilamon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Aquilamon.png",
+       "c": [
+        {
+         "id": 390,
+         "name": "Silphymon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Silphymon.png",
+         "c": [
+          {
+           "id": 350,
+           "name": "Valkyrimon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Valkyrimon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "armadimon",
+  "rarity": "common",
+  "tree": {
+   "id": 348,
+   "name": "Upamon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Upamon.png",
+   "c": [
+    {
+     "id": 271,
+     "name": "Armadimon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Armadimon.png",
+     "c": [
+      {
+       "id": 266,
+       "name": "Ankylomon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Ankylomon.png",
+       "c": [
+        {
+         "id": 387,
+         "name": "Shakkoumon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Shakkoumon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "wormmon",
+  "rarity": "common",
+  "tree": {
+   "id": 322,
+   "name": "Minomon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Minomon.png",
+   "c": [
+    {
+     "id": 356,
+     "name": "Wormmon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Wormmon.png",
+     "c": [
+      {
+       "id": 336,
+       "name": "Stingmon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Stingmon.png",
+       "c": [
+        {
+         "id": 300,
+         "name": "Dinobeemon",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Dinobeemon.png",
+         "c": [
+          {
+           "id": 395,
+           "name": "Gran Kuwagamon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Gran_Kuwagamon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "tailmon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 181,
+   "name": "Nyaromon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Nyaromon.png",
+   "c": [
+    {
+     "id": 83,
+     "name": "Tailmon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Tailmon.png",
+     "c": [
+      {
+       "id": 38,
+       "name": "Angewomon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Angewomon.png",
+       "c": [
+        {
+         "id": 445,
+         "name": "Ofanimon",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/Ofanimon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "terriermon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 397,
+   "name": "Gummymon",
+   "stage": "In-Training",
+   "image": "https://digi-api.com/images/digimon/w/Gummymon.png",
+   "c": [
+    {
+     "id": 341,
+     "name": "Terriermon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Terriermon.png",
+     "c": [
+      {
+       "id": 309,
+       "name": "Gargomon",
+       "stage": "Champion",
+       "image": "https://digi-api.com/images/digimon/w/Gargomon.png",
+       "c": [
+        {
+         "id": 463,
+         "name": "Rapidmon Perfect",
+         "stage": "Ultimate",
+         "image": "https://digi-api.com/images/digimon/w/Rapidmon_Perfect.png",
+         "c": [
+          {
+           "id": 466,
+           "name": "Saint Galgomon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Saint_Galgomon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "lopmon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 313,
+   "name": "Lopmon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Lopmon.png",
+   "c": [
+    {
+     "id": 450,
+     "name": "Turuiemon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Turuiemon.png",
+     "c": [
+      {
+       "id": 265,
+       "name": "Andiramon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Andiramon.png",
+       "c": [
+        {
+         "id": 287,
+         "name": "Cherubimon (Vice)",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/Cherubimon_(Vice).png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "impmon",
+  "rarity": "rare",
+  "tree": {
+   "id": 482,
+   "name": "Impmon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Impmon.png",
+   "c": [
+    {
+     "id": 918,
+     "name": "Baalmon",
+     "stage": "Ultimate",
+     "image": "https://digi-api.com/images/digimon/w/Baalmon.png",
+     "c": [
+      {
+       "id": 421,
+       "name": "Beelzebumon",
+       "stage": "Mega",
+       "image": "https://digi-api.com/images/digimon/w/Beelzebumon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "leomon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 60,
+   "name": "Leomon",
+   "stage": "Champion",
+   "image": "https://digi-api.com/images/digimon/w/Leomon.png",
+   "c": [
+    {
+     "id": 107,
+     "name": "Saber Leomon",
+     "stage": "Mega",
+     "image": "https://digi-api.com/images/digimon/w/Saber_Leomon.png",
+     "c": [
+      {
+       "id": 752,
+       "name": "Bancho Leomon",
+       "stage": "Mega",
+       "image": "https://digi-api.com/images/digimon/w/Bancho_Leomon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "betamon",
+  "rarity": "common",
+  "tree": {
+   "id": 4,
+   "name": "Betamon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Betamon.png",
+   "c": [
+    {
+     "id": 31,
+     "name": "Seadramon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Seadramon.png",
+     "c": [
+      {
+       "id": 65,
+       "name": "Mega Seadramon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Mega_Seadramon.png",
+       "c": [
+        {
+         "id": 68,
+         "name": "Metal Seadramon",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/Metal_Seadramon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "dracomon",
+  "rarity": "rare",
+  "tree": {
+   "id": 891,
+   "name": "Dracomon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Dracomon.png",
+   "c": [
+    {
+     "id": 880,
+     "name": "Coredramon (Blue)",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Coredramon_(Blue).png",
+     "c": [
+      {
+       "id": 909,
+       "name": "Wingdramon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Wingdramon.png",
+       "c": [
+        {
+         "id": 905,
+         "name": "Slayerdramon",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/Slayerdramon.png",
+         "c": [
+          {
+           "id": 895,
+           "name": "Examon",
+           "stage": "Mega",
+           "image": "https://digi-api.com/images/digimon/w/Examon.png",
+           "c": []
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "coronamon",
+  "rarity": "common",
+  "tree": {
+   "id": 882,
+   "name": "Coronamon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Coronamon.png",
+   "c": [
+    {
+     "id": 897,
+     "name": "Firamon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Firamon.png",
+     "c": [
+      {
+       "id": 898,
+       "name": "Flaremon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Flaremon.png",
+       "c": [
+        {
+         "id": 869,
+         "name": "Apollomon",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/Apollomon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "lunamon",
+  "rarity": "common",
+  "tree": {
+   "id": 901,
+   "name": "Lunamon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Lunamon.png",
+   "c": [
+    {
+     "id": 899,
+     "name": "Lekismon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Lekismon.png",
+     "c": [
+      {
+       "id": 883,
+       "name": "Crescemon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Crescemon.png",
+       "c": [
+        {
+         "id": 885,
+         "name": "Dianamon",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/Dianamon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "gaomon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 826,
+   "name": "Gaomon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Gaomon.png",
+   "c": [
+    {
+     "id": 825,
+     "name": "Gaogamon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Gaogamon.png",
+     "c": [
+      {
+       "id": 828,
+       "name": "Mach Gaogamon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Mach_Gaogamon.png",
+       "c": [
+        {
+         "id": 830,
+         "name": "Mirage Gaogamon",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/Mirage_Gaogamon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "hackmon",
+  "rarity": "rare",
+  "tree": {
+   "id": 1156,
+   "name": "Hackmon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Hackmon.png",
+   "c": [
+    {
+     "id": 1183,
+     "name": "Bao Hackmon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Bao_Hackmon.png",
+     "c": [
+      {
+       "id": 1185,
+       "name": "Savior Hackmon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Savior_Hackmon.png",
+       "c": [
+        {
+         "id": 1187,
+         "name": "JESmon",
+         "stage": "Mega",
+         "image": "https://digi-api.com/images/digimon/w/JESmon.png",
+         "c": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "falcomon",
+  "rarity": "common",
+  "tree": {
+   "id": 764,
+   "name": "Falcomon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Falcomon.png",
+   "c": [
+    {
+     "id": 843,
+     "name": "Peckmon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Peckmon.png",
+     "c": [
+      {
+       "id": 786,
+       "name": "Yatagaramon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Yatagaramon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "kudamon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 797,
+   "name": "Kudamon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Kudamon.png",
+   "c": [
+    {
+     "id": 790,
+     "name": "Reppamon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Reppamon.png",
+     "c": [
+      {
+       "id": 776,
+       "name": "Sleipmon",
+       "stage": "Mega",
+       "image": "https://digi-api.com/images/digimon/w/Sleipmon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "lalamon",
+  "rarity": "common",
+  "tree": {
+   "id": 867,
+   "name": "Lalamon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Lalamon.png",
+   "c": [
+    {
+     "id": 833,
+     "name": "Sunflowmon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Sunflowmon.png",
+     "c": [
+      {
+       "id": 827,
+       "name": "Lilamon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Lilamon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "geogreymon",
+  "rarity": "uncommon",
+  "tree": {
+   "id": 857,
+   "name": "Geo Greymon",
+   "stage": "Champion",
+   "image": "https://digi-api.com/images/digimon/w/Geo_Greymon.png",
+   "c": [
+    {
+     "id": 849,
+     "name": "Rize Greymon",
+     "stage": "Ultimate",
+     "image": "https://digi-api.com/images/digimon/w/Rize_Greymon.png",
+     "c": [
+      {
+       "id": 853,
+       "name": "Shine Greymon",
+       "stage": "Mega",
+       "image": "https://digi-api.com/images/digimon/w/Shine_Greymon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "kunemon",
+  "rarity": "common",
+  "tree": {
+   "id": 126,
+   "name": "Kunemon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Kunemon.png",
+   "c": [
+    {
+     "id": 127,
+     "name": "Kuwagamon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Kuwagamon.png",
+     "c": [
+      {
+       "id": 77,
+       "name": "Okuwamon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Okuwamon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "gotsumon",
+  "rarity": "common",
+  "tree": {
+   "id": 119,
+   "name": "Gottsumon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Gottsumon.png",
+   "c": [
+    {
+     "id": 73,
+     "name": "Monochromon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Monochromon.png",
+     "c": [
+      {
+       "id": 201,
+       "name": "Vermillimon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Vermillimon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ },
+ {
+  "key": "floramon",
+  "rarity": "common",
+  "tree": {
+   "id": 162,
+   "name": "Floramon",
+   "stage": "Rookie",
+   "image": "https://digi-api.com/images/digimon/w/Floramon.png",
+   "c": [
+    {
+     "id": 259,
+     "name": "Kiwimon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Kiwimon.png",
+     "c": [
+      {
+       "id": 139,
+       "name": "Blossomon",
+       "stage": "Ultimate",
+       "image": "https://digi-api.com/images/digimon/w/Blossomon.png",
+       "c": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+]

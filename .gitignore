@@ -1,0 +1,5 @@
+state.json
+cache/
+config.json
+__pycache__/
+state/
