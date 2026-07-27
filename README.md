@@ -63,14 +63,17 @@ digimon --account 4  # 특정 계정 지정
 
 ## Claude Code 상태줄 연동
 
-`~/.claude/settings.json`(원하는 계정)에 아래를 넣으면 코딩 중 하단에 디지몬이 상시 표시된다.
-웜런 0.07초라 매 렌더마다 실행돼도 부담 없다.
+상태줄은 현재 `claude-usage.py`(계정별 사용량 바)로 그린다. 계정 디렉터리마다 `claude-usage.py`와
+`statusline.sh`를 복사해 두고, `settings.json`에서 그 옆의 `statusline.sh`를 가리킨다. 6개 계정
+`settings.json`에 모두 이렇게 설정돼 있다. (예전 `digimon.py --statusline` 방식은 이 버전으로 대체됨.)
 
 ```json
 {
   "statusLine": {
     "type": "command",
-    "command": "python3 /home/knbank189/Seongjin/3_개인/디지몬/digimon.py --statusline"
+    "command": "/home/knbank189/.claude/statusline.sh",
+    "padding": 0,
+    "refreshInterval": 30
   }
 }
 ```

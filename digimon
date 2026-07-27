@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# DigiTokenBar 실행 래퍼. 심볼릭 링크로 호출돼도 실제 스크립트 위치를 찾도록 링크를 푼다.
+# 상태창 실행 래퍼. 심볼릭 링크로 호출돼도 실제 위치를 찾는다.
+# 상태 박스(현재 쓰는 claude-usage.py --box)를 띄운다.
 DIR="$(cd "$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")" && pwd)"
-exec python3 "$DIR/digimon.py" "$@"
+exec /usr/bin/python3 "$DIR/claude-usage.py" --box "$@"
