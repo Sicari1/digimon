@@ -1,0 +1,32 @@
+{
+ "version": 1,
+ "install_baseline_set": true,
+ "last_cumulative": 511294844,
+ "used_since_install": 67399914,
+ "egg_usage": 0,
+ "pending_line": null,
+ "pending_shiny": false,
+ "pending_nature": null,
+ "active": {
+  "line": "falcomon",
+  "rarity": "common",
+  "total_forms": 3,
+  "path": [
+   764
+  ],
+  "stage_index": 0,
+  "used_at_stage": 62399914,
+  "is_shiny": false,
+  "nature": "lonely",
+  "dark": null
+ },
+ "dex": [],
+ "collected": [],
+ "spent_tokens": 0,
+ "inventory": {},
+ "charm_owned": false,
+ "limit_tier": {},
+ "created_at": "2026-07-22T15:21:26+09:00",
+ "last_run": "2026-07-24T14:16:51+09:00",
+ "events": []
+}

@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "install_baseline_set": true,
+ "last_cumulative": 137749759,
+ "used_since_install": 249142,
+ "egg_usage": 249142,
+ "pending_line": "falcomon",
+ "pending_shiny": false,
+ "pending_nature": "lonely",
+ "active": null,
+ "dex": [],
+ "collected": [],
+ "spent_tokens": 0,
+ "inventory": {},
+ "charm_owned": false,
+ "limit_tier": {},
+ "created_at": "2026-07-22T15:51:49+09:00",
+ "last_run": "2026-07-24T14:16:53+09:00",
+ "events": []
+}

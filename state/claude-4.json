@@ -1,0 +1,102 @@
+{
+ "version": 1,
+ "install_baseline_set": true,
+ "last_cumulative": 561985814,
+ "used_since_install": 1850783294,
+ "egg_usage": 0,
+ "pending_line": null,
+ "pending_shiny": false,
+ "pending_nature": null,
+ "active": {
+  "line": "gaomon",
+  "rarity": "uncommon",
+  "total_forms": 4,
+  "path": [
+   826,
+   825,
+   828
+  ],
+  "stage_index": 2,
+  "used_at_stage": 23283294,
+  "is_shiny": false,
+  "nature": "hardy",
+  "dark": null
+ },
+ "dex": [
+  {
+   "line": "gabumon",
+   "rarity": "common",
+   "chain": [
+    {
+     "id": 24,
+     "name": "Tunomon",
+     "stage": "In-Training",
+     "image": "https://digi-api.com/images/digimon/w/Tunomon.png"
+    },
+    {
+     "id": 16,
+     "name": "Gabumon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Gabumon.png"
+    },
+    {
+     "id": 33,
+     "name": "Garurumon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Garurumon.png"
+    },
+    {
+     "id": 720,
+     "name": "Garurumon (X-Antibody)",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Garurumon_(X-Antibody).png"
+    }
+   ],
+   "final_name": "Garurumon (X-Antibody)",
+   "is_shiny": false,
+   "nature": "mild",
+   "is_dark": false,
+   "caught_at": "2026-07-22T17:32:30+09:00"
+  },
+  {
+   "line": "gotsumon",
+   "rarity": "common",
+   "chain": [
+    {
+     "id": 119,
+     "name": "Gottsumon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Gottsumon.png"
+    },
+    {
+     "id": 73,
+     "name": "Monochromon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Monochromon.png"
+    },
+    {
+     "id": 201,
+     "name": "Vermillimon",
+     "stage": "Ultimate",
+     "image": "https://digi-api.com/images/digimon/w/Vermillimon.png"
+    }
+   ],
+   "final_name": "Vermillimon",
+   "is_shiny": false,
+   "nature": "quirky",
+   "is_dark": false,
+   "caught_at": "2026-07-22T17:32:50+09:00"
+  }
+ ],
+ "collected": [
+  "gabumon:720",
+  "gotsumon:201"
+ ],
+ "spent_tokens": 0,
+ "inventory": {},
+ "charm_owned": false,
+ "limit_tier": {},
+ "created_at": "2026-07-22T15:51:50+09:00",
+ "last_run": "2026-07-24T14:18:46+09:00",
+ "events": []
+}

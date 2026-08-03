@@ -1,0 +1,174 @@
+{
+ "version": 1,
+ "install_baseline_set": true,
+ "last_cumulative": 335792889,
+ "used_since_install": 5377868167,
+ "egg_usage": 0,
+ "pending_line": null,
+ "pending_shiny": false,
+ "pending_nature": null,
+ "active": {
+  "line": "floramon",
+  "rarity": "common",
+  "total_forms": 3,
+  "path": [
+   162
+  ],
+  "stage_index": 0,
+  "used_at_stage": 102868167,
+  "is_shiny": false,
+  "nature": "serious",
+  "dark": null
+ },
+ "dex": [
+  {
+   "line": "kudamon",
+   "rarity": "uncommon",
+   "chain": [
+    {
+     "id": 797,
+     "name": "Kudamon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Kudamon.png"
+    },
+    {
+     "id": 790,
+     "name": "Reppamon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Reppamon.png"
+    },
+    {
+     "id": 776,
+     "name": "Sleipmon",
+     "stage": "Mega",
+     "image": "https://digi-api.com/images/digimon/w/Sleipmon.png"
+    }
+   ],
+   "final_name": "Sleipmon",
+   "is_shiny": false,
+   "nature": "bold",
+   "is_dark": false,
+   "caught_at": "2026-07-22T17:27:28+09:00"
+  },
+  {
+   "line": "lunamon",
+   "rarity": "common",
+   "chain": [
+    {
+     "id": 901,
+     "name": "Lunamon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Lunamon.png"
+    },
+    {
+     "id": 899,
+     "name": "Lekismon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Lekismon.png"
+    },
+    {
+     "id": 883,
+     "name": "Crescemon",
+     "stage": "Ultimate",
+     "image": "https://digi-api.com/images/digimon/w/Crescemon.png"
+    },
+    {
+     "id": 885,
+     "name": "Dianamon",
+     "stage": "Mega",
+     "image": "https://digi-api.com/images/digimon/w/Dianamon.png"
+    }
+   ],
+   "final_name": "Dianamon",
+   "is_shiny": false,
+   "nature": "serious",
+   "is_dark": false,
+   "caught_at": "2026-07-22T17:27:59+09:00"
+  },
+  {
+   "line": "veemon",
+   "rarity": "uncommon",
+   "chain": [
+    {
+     "id": 289,
+     "name": "Chibimon",
+     "stage": "In-Training",
+     "image": "https://digi-api.com/images/digimon/w/Chibimon.png"
+    },
+    {
+     "id": 349,
+     "name": "V-mon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/V-mon.png"
+    },
+    {
+     "id": 358,
+     "name": "XV-mon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/XV-mon.png"
+    },
+    {
+     "id": 331,
+     "name": "Paildramon",
+     "stage": "Ultimate",
+     "image": "https://digi-api.com/images/digimon/w/Paildramon.png"
+    },
+    {
+     "id": 405,
+     "name": "Imperialdramon(Fighter Mode)",
+     "stage": "Mega",
+     "image": "https://digi-api.com/images/digimon/w/Imperialdramon(Fighter_Mode).png"
+    }
+   ],
+   "final_name": "Imperialdramon(Fighter Mode)",
+   "is_shiny": false,
+   "nature": "serious",
+   "is_dark": false,
+   "caught_at": "2026-07-22T17:31:41+09:00"
+  },
+  {
+   "line": "kunemon",
+   "rarity": "common",
+   "chain": [
+    {
+     "id": 126,
+     "name": "Kunemon",
+     "stage": "Rookie",
+     "image": "https://digi-api.com/images/digimon/w/Kunemon.png"
+    },
+    {
+     "id": 127,
+     "name": "Kuwagamon",
+     "stage": "Champion",
+     "image": "https://digi-api.com/images/digimon/w/Kuwagamon.png"
+    },
+    {
+     "id": 77,
+     "name": "Okuwamon",
+     "stage": "Ultimate",
+     "image": "https://digi-api.com/images/digimon/w/Okuwamon.png"
+    }
+   ],
+   "final_name": "Okuwamon",
+   "is_shiny": false,
+   "nature": "serious",
+   "is_dark": false,
+   "caught_at": "2026-07-23T09:55:25+09:00"
+  }
+ ],
+ "collected": [
+  "kudamon:776",
+  "lunamon:885",
+  "veemon:405",
+  "kunemon:77"
+ ],
+ "spent_tokens": 0,
+ "inventory": {
+  "rare_candy": 78
+ },
+ "charm_owned": false,
+ "limit_tier": {},
+ "created_at": "2026-07-22T15:46:13+09:00",
+ "last_run": "2026-07-24T14:16:52+09:00",
+ "events": []
+}
